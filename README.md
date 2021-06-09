@@ -7,7 +7,7 @@ Machine Learning Division Repository for Final Project B21-CAP0300
 3. Tensorflow 2.5
 
 # Training
-1. Download dataset from ____
+1. Download dataset from https://drive.google.com/drive/folders/1zPzJ-yj4W9T8VvB_3VVVPD65YzkLqQtb?usp=sharing
 2. Modify the model at Jupyter Notebook if you want
 3. Train and validate the model
 4. Save model to .h5 file
